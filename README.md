@@ -1,6 +1,6 @@
 <h1 align="center">BlockScout</h1>
 <p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>
-<div align="center">
+<div align="center">0x97c34fb8645cc75e2b04eae0082125248c59020a
 
 [![Blockscout](https://github.com/blockscout/blockscout/workflows/Blockscout/badge.svg?branch=master)](https://github.com/blockscout/blockscout/actions) [![Join the chat at https://gitter.im/poanetwork/blockscout](https://badges.gitter.im/poanetwork/blockscout.svg)](https://gitter.im/poanetwork/blockscout?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
